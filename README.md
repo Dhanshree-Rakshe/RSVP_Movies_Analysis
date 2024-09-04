@@ -4,3 +4,12 @@ RSVP Movies is an Indian film production company that has produced many super-hi
 
 
 Excel file contains data of the movies that have been released in the past 3 years.
+
+Steps to follow to solve the assignment:
+
+
+Steps : 
+1 ) Download the IMDb data set .
+2 ) The first tab contains the ERD and the table details. Study them carefully and understand the relationships between the tables.
+3 ) Inspect each table given in the subsequent tabs and understand the features associated with each of them.
+4 ) Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
